@@ -117,7 +117,7 @@ session_start();
             <div class="row g-4">
                 <div class="col-md-4">
                     <h5 class="text-white">Sharda Boys Hostel</h5>
-                    <p class="small">Near AKS University, Panna Road, Dherganj, Satna (M.P.) – 485001</p>
+                    <p class="small">Near AKS University, Panna Road, Sherganj, Satna (M.P.) – 485001</p>
                     <p class="small mb-1"><i class="fa-solid fa-phone me-2"></i>9425173209</p>
                     <div class="social mt-2">
                         <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
