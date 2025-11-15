@@ -226,12 +226,12 @@ header("location:dashboard.php");
             <div class="row g-4">
                 <div class="col-6 col-lg-3"><div class="card icon-card p-4 text-center"><div class="icon-circle mx-auto mb-3"><i class="fa-solid fa-wifi"></i></div><div>WiFi</div></div></div>
                 <div class="col-6 col-lg-3"><div class="card icon-card p-4 text-center"><div class="icon-circle mx-auto mb-3"><i class="fa-solid fa-video"></i></div><div>CCTV</div></div></div>
-                <div class="col-6 col-lg-3"><div class="card icon-card p-4 text-center"><div class="icon-circle mx-auto mb-3"><i class="fa-solid fa-table"></i></div><div>Study Table</div></div></div>
+                <div class="col-6 col-lg-3"><div class="card icon-card p-4 text-center"><div class="icon-circle mx-auto mb-3"><i class="fa-solid fa-table"></i></div><div>almari</div></div></div>
                 <div class="col-6 col-lg-3"><div class="card icon-card p-4 text-center"><div class="icon-circle mx-auto mb-3"><i class="fa-solid fa-shirt"></i></div><div>Laundry</div></div></div>
-                <div class="col-6 col-lg-3"><div class="card icon-card p-4 text-center"><div class="icon-circle mx-auto mb-3"><i class="fa-solid fa-utensils"></i></div><div>Clean Mess</div></div></div>
+                <div class="col-6 col-lg-3"><div class="card icon-card p-4 text-center"><div class="icon-circle mx-auto mb-3"><i class="fa-solid fa-utensils"></i></div><div>kichen</div></div></div>
                 <div class="col-6 col-lg-3"><div class="card icon-card p-4 text-center"><div class="icon-circle mx-auto mb-3"><i class="fa-solid fa-temperature-high"></i></div><div>Hot Water</div></div></div>
                 <div class="col-6 col-lg-3"><div class="card icon-card p-4 text-center"><div class="icon-circle mx-auto mb-3"><i class="fa-solid fa-square-parking"></i></div><div>Parking</div></div></div>
-                <div class="col-12 col-lg-3"><div class="card icon-card p-4 text-center"><div class="icon-circle mx-auto mb-3"><i class="fa-solid fa-tags"></i></div><div>Rent ₹6000 • Tiffin ₹90/day</div></div></div>
+                <div class="col-12 col-lg-3"><div class="card icon-card p-4 text-center"><div class="icon-circle mx-auto mb-3"><i class="fa-solid fa-tags"></i></div><div>Rent ₹3000 • Tiffin ₹160/day</div></div></div>
             </div>
         </div>
     </section>
