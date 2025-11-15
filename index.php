@@ -249,38 +249,38 @@ header("location:dashboard.php");
             <div class="row g-4">
                 <div class="col-sm-6 col-lg-4">
                     <div class="card gallery-card">
-                        <img src="img/rooms1.jpeg" alt="Rooms" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop';">
+                        <img src="img/rooms.jpeg" alt="Rooms" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800&auto=format&fit=crop';">
                         <div class="card-body"><h6 class="mb-0">Rooms</h6></div>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4">
                     <div class="card gallery-card">
                         <img src="img/building.jpeg" alt="Stairs" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=800&auto=format&fit=crop';">
-                        <div class="card-body"><h6 class="mb-0">Stairs</h6></div>
+                        <div class="card-body"><h6 class="mb-0">hostel outside</h6></div>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4">
                     <div class="card gallery-card">
-                        <img src="img/mess1.jpeg" alt="Mess" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1564758866811-86b0d4703f2a?q=80&w=800&auto=format&fit=crop';">
-                        <div class="card-body"><h6 class="mb-0">Mess</h6></div>
+                        <img src="img/entry point.jpeg" alt="Mess" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1564758866811-86b0d4703f2a?q=80&w=800&auto=format&fit=crop';">
+                        <div class="card-body"><h6 class="mb-0">hostel entrance</h6></div>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4">
                     <div class="card gallery-card">
                         <img src="img/room2.jpeg" alt="Washroom" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1615870216515-4f63bdbd3e3d?q=80&w=800&auto=format&fit=crop';">
-                        <div class="card-body"><h6 class="mb-0">Washroom</h6></div>
+                        <div class="card-body"><h6 class="mb-0">room with bed</h6></div>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4">
                     <div class="card gallery-card">
-                        <img src="img/beds.jpeg" alt="Beds" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1505692794403-34cb0b3d0d52?q=80&w=800&auto=format&fit=crop';">
-                        <div class="card-body"><h6 class="mb-0">Beds</h6></div>
+                        <img src="img/bathroom.jpeg" alt="Beds" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1505692794403-34cb0b3d0d52?q=80&w=800&auto=format&fit=crop';">
+                        <div class="card-body"><h6 class="mb-0">bathroom</h6></div>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4">
                     <div class="card gallery-card">
-                        <img src="img/hostel-bunk-bed.jpg" alt="Lawn" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop';">
-                        <div class="card-body"><h6 class="mb-0">Lawn</h6></div>
+                        <img src="img/kichen.jpeg" alt="kichen" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop';">
+                        <div class="card-body"><h6 class="mb-0">kichen</h6></div>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4">
@@ -388,28 +388,28 @@ header("location:dashboard.php");
         <div class="container">
             <div class="text-center mb-4">
                 <span class="feature-badge">Plans & Facilities</span>
-                <h2 class="section-title mt-2">Room & Mess Info</h2>
+                <h2 class="section-title mt-2">Room Info</h2>
             </div>
             <div class="row g-4">
                 <div class="col-md-6 col-lg-4">
                     <div class="card icon-card p-4 h-100">
                         <div class="icon-circle mb-3"><i class="fa-solid fa-bed"></i></div>
                         <h5 class="mb-2">Room Rent</h5>
-                        <p class="mb-0">₹6000/month including fooding & lodging</p>
+                        <p class="mb-0">₹3000/month for double person and ₹2200 single </p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="card icon-card p-4 h-100">
                         <div class="icon-circle mb-3"><i class="fa-solid fa-bowl-food"></i></div>
                         <h5 class="mb-2">Tiffin Charge</h5>
-                        <p class="mb-0">₹90/day for 3 meals</p>
+                        <p class="mb-0">₹160/day for 2 meals</p>
                     </div>
                 </div>
                 <div class="col-md-12 col-lg-4">
                     <div class="card icon-card p-4 h-100">
                         <div class="icon-circle mb-3"><i class="fa-solid fa-list-check"></i></div>
                         <h5 class="mb-2">Facilities</h5>
-                        <p class="mb-0">WiFi, Laundry, Study Table, CCTV, Parking, Hot Water, Clean Mess</p>
+                        <p class="mb-0">WiFi, Laundry, Study Table, CCTV, Parking, Hot Water</p>
                     </div>
                 </div>
             </div>

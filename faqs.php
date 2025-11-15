@@ -66,17 +66,17 @@ session_start();
                         </button>
                     </h2>
                     <div id="faq1" class="accordion-collapse collapse show" aria-labelledby="faq1h" data-bs-parent="#faqAccordion">
-                        <div class="accordion-body">Room Rent is <strong>₹6000/month</strong> including fooding & lodging.</div>
+                        <div class="accordion-body">Room Rent is <strong>₹3000/month per double and ₹2200 for single</strong>.</div>
                     </div>
                 </div>
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="faq2h">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2" aria-expanded="false" aria-controls="faq2">
-                            Is fooding included in ₹6000?
+                            currenty mess not available
                         </button>
                     </h2>
                     <div id="faq2" class="accordion-collapse collapse" aria-labelledby="faq2h" data-bs-parent="#faqAccordion">
-                        <div class="accordion-body">Yes, the ₹6000 charges include lodging and fooding.</div>
+                        <div class="accordion-body">Yes, the ₹3000 charge for double person and ₹2200 for single person.</div>
                     </div>
                 </div>
                 <div class="accordion-item">
@@ -86,7 +86,7 @@ session_start();
                         </button>
                     </h2>
                     <div id="faq3" class="accordion-collapse collapse" aria-labelledby="faq3h" data-bs-parent="#faqAccordion">
-                        <div class="accordion-body">Tiffin charge is <strong>₹90/day</strong> which includes 3 meals.</div>
+                        <div class="accordion-body">Tiffin charge is <strong>₹160/day</strong> which includes 2 meals.</div>
                     </div>
                 </div>
                 <div class="accordion-item">
@@ -96,7 +96,7 @@ session_start();
                         </button>
                     </h2>
                     <div id="faq4" class="accordion-collapse collapse" aria-labelledby="faq4h" data-bs-parent="#faqAccordion">
-                        <div class="accordion-body">We are located near AKS University, Panna Road, Dherganj, Satna (M.P.) – 485001.</div>
+                        <div class="accordion-body">We are located near AKS University, Panna Road, Sherganj, Satna (M.P.) – 485001.</div>
                     </div>
                 </div>
                 <div class="accordion-item">
@@ -168,7 +168,7 @@ session_start();
             <div class="row g-4">
                 <div class="col-md-4">
                     <h5 class="text-white">Sharda Boys Hostel</h5>
-                    <p class="small">Near AKS University, Panna Road, Dherganj, Satna (M.P.) – 485001</p>
+                    <p class="small">Near AKS University, Panna Road, Sherganj, Satna (M.P.) – 485001</p>
                     <p class="small mb-1"><i class="fa-solid fa-phone me-2"></i>9425173209</p>
                     <div class="social mt-2">
                         <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
